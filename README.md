@@ -1,6 +1,8 @@
 # EEP153-P4
 
-### This is the Repository for EEP 153's Spring 2021 Project 4 Team **Luther Tweeten**
+### This is the Repository for EEP 153's Spring 2021 Project 4 Team Luther Tweeten
+
+#### We're examining the effects of certain economic policies on nutrition in Uganda
 
 Our main code file is Casey_costs.ipnyb
 
