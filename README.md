@@ -8,7 +8,7 @@
 
 ###### In order to run correctly: you'll need to !pip install the modules at the top
 
-###### You'll also need to find the part about decrypting after downloading from GITHUB -- uncomment that section and use the passphrase we've been using in class all semester
+###### You'll also need to find the part about decrypting after downloading from GITHUB (5th code cell) -- uncomment that section and use the passphrase we've been using in class all semester
 
 #### Our data is stored in students.json.gpg. Make sure you decrypt it in our code file
 
